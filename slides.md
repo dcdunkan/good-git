@@ -7,6 +7,7 @@ colorSchema: auto
 # background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: Git Good
+download: false
 info: false
 author: Sheron Rajesh
 # apply unocss classes to the current slide
