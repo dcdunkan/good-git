@@ -1,0 +1,3 @@
+---
+src: ./attendees/dcdunkan.md
+---
